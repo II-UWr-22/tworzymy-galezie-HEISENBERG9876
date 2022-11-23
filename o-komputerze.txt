@@ -1,0 +1,51 @@
+Linux user42-VirtualBox 5.15.0-53-generic #59-Ubuntu SMP Mon Oct 17 18:53:30 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        2023460 kB
+MemFree:          510316 kB
+MemAvailable:    1100064 kB
+Buffers:           21192 kB
+Cached:           683744 kB
+SwapCached:         1340 kB
+Active:           383052 kB
+Inactive:         908392 kB
+Active(anon):      31892 kB
+Inactive(anon):   571524 kB
+Active(file):     351160 kB
+Inactive(file):   336868 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       2191356 kB
+SwapFree:        2135200 kB
+Dirty:               216 kB
+Writeback:             0 kB
+AnonPages:        585436 kB
+Mapped:           211336 kB
+Shmem:             17736 kB
+KReclaimable:      66340 kB
+Slab:             129212 kB
+SReclaimable:      66340 kB
+SUnreclaim:        62872 kB
+KernelStack:        7264 kB
+PageTables:        15956 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     3203084 kB
+Committed_AS:    3892000 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       39112 kB
+VmallocChunk:          0 kB
+Percpu:              924 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      163776 kB
+DirectMap2M:     1933312 kB
